@@ -2,9 +2,7 @@
 #********************************************************************
 
 #Hadoop的安装与配置（Ubuntu18.04）
-#Author：田小明
-#blogs:	http://www.txm.cool
-#email: 921941787@qq.com
+#Author：txm
 #github: https://github.com/TdreamT/hadoop.git
 
 #********************************************************************
@@ -12,7 +10,7 @@
 
 echo -n "请输入用户名: "
 read name
-
+sudo apt-get update
 #1.Jdk与Hadoop的解压和安装
 
 tar -zxvf /home/$name/jdk-8u261-linux-x64.tar.gz
