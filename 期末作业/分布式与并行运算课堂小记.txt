@@ -1,0 +1,39 @@
+stclone考试大题
+1、cluster就是一群电脑（LAN）联网（eth网卡）
+2、LAN ping（ICMP 一种协议）
+3、web后台（是在一个局域网里面跑的一台web sower（winSower有web服务、用户、匿名、分发(FTP)、端口、生成））
+4、FTP
+5、get command（URL网址）（git clone、git status、git add、git commit -m 、git push）
+ps:
+    路由器工作原理:解调 调制
+                               协议（频率（2.4Ghz、5.0Ghz被称为信道））
+                                         
+第二节
+ipconfig 192.168.1.150
+ping 192.168.1.102
+close
+bye关闭
+第三节
+git clone 复制链接
+git status  查看仓库环境
+git add   ./路径
+git commit -m "注释"
+git push  合并库
+git pull  更新
+
+
+#9.28
+linux 命令
+sl    ：火车
+cmatrix  : 黑客帝国
+lss   |  more   滚动浏览
+gedit   记事本
+
+选题文件
+范围：分布式应用场景下的设计
+第一部分：论证
+第二部分：设计框架
+第三部分：具体模块
+第四部分：核心算法和项目图
+附件：code package+其他图
+字数：3000+
